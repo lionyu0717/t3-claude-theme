@@ -17,7 +17,7 @@ Claude 改版之后，很多人怀念原来那种暖色调、纸一样质感的�
 - 老 Claude 桌面版的暖纸色板（浅色 / 深色两套）
 - 对话与输入框使用 Anthropic Serif（字体已内嵌，无需安装），界面使用 Georgia
 - 复刻老版的输入框与发送按钮：打字时变成回车符号 ↵，悬停浮现陶土色
-- 输入框上方的像素小 Clawd：待机、挥手、跳跃、撒花等完整原版动作
+- 输入框上方的像素小 Clawd：待机、挥手、跳跃、撒花，还会沿着输入框**散步**（脚步与位移同步，纯 CSS 实现）
 - 发送 / steering / 排队 / 停止按钮统一为 Clawd 陶土色 `#d97757`
 
 ## 关于 Open VSX 精简版
@@ -27,7 +27,6 @@ Claude 改版之后，很多人怀念原来那种暖色调、纸一样质感的�
 ## 说明
 
 - 小 Clawd 的原始素材与动作数据来自 Claude Code 桌面版的 Clawd's Quest，仅供学习交流
-- 行走动画需要 JavaScript，而 T3 主题只能携带 CSS，所以应用内的小 Clawd 在原地做动作；行走效果见仓库演示页
 - 本主题与 Anthropic 无关，仅为粉丝作品
 
 ## License
@@ -53,7 +52,7 @@ After Claude's redesign, many people missed the warm, paper-like experience of t
 - The old Claude desktop warm palette (light & dark)
 - Anthropic Serif for conversation and composer (embedded, no install needed), Georgia for the interface
 - The old-style composer and send button: a return symbol ↵ while typing, clay on hover
-- A pixel Clawd above the composer with its full set of original ambient actions
+- A pixel Clawd above the composer with its full set of original ambient actions — it even takes a little walk along the composer (footsteps synced to movement, pure CSS)
 - Send / steer / queue / stop buttons unified in Clawd clay `#d97757`
 
 ## Open VSX lite version
@@ -63,7 +62,6 @@ After Claude's redesign, many people missed the warm, paper-like experience of t
 ## Notes
 
 - Clawd's pixel art and motion data come from Claude Code desktop's Clawd's Quest, shared for learning purposes
-- Walking needs JavaScript, and T3 themes can only carry CSS, so the in-app Clawd plays its actions in place; see the repo demo page for walking
 - Unofficial fan work, not affiliated with Anthropic
 
 ## License
