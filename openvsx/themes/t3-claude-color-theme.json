@@ -1,0 +1,33 @@
+{
+  "name": "T3\u2013Claude",
+  "type": "light",
+  "colors": {
+    "editor.background": "#faf9f5",
+    "editor.foreground": "#141413",
+    "descriptionForeground": "#73726c",
+    "editorWidget.background": "#ffffff",
+    "panel.border": "#deddd5",
+    "focusBorder": "#c6613f",
+    "button.background": "#d97757",
+    "button.foreground": "#faf9f5",
+    "sideBar.background": "#f5f4ed",
+    "sideBar.foreground": "#141413",
+    "sideBar.border": "#deddd5",
+    "editorError.foreground": "#8a2424",
+    "editorWarning.foreground": "#8b641c",
+    "input.background": "#deddd5",
+    "input.placeholderForeground": "#73726c",
+    "list.activeSelectionBackground": "#f6e6de",
+    "list.hoverBackground": "#f0eee6",
+    "list.inactiveSelectionBackground": "#e8e6dc",
+    "textCodeBlock.background": "#f5f4ed",
+    "editor.findMatchHighlightBackground": "#f2d9a8",
+    "editor.findMatchBackground": "#c6613f",
+    "menu.background": "#ffffff",
+    "terminal.background": "#faf9f5",
+    "terminal.foreground": "#141413",
+    "terminalCursor.foreground": "#c6613f",
+    "terminal.selectionBackground": "#e4d6c4",
+    "scrollbarSlider.background": "#c8c6bd"
+  }
+}

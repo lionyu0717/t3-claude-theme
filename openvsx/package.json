@@ -1,0 +1,33 @@
+{
+  "name": "t3-claude",
+  "displayName": "T3–Claude",
+  "description": "The warm, pre-redesign Claude desktop look for T3 Code. Colors only — for the full theme (serif fonts, composer styling, pixel Clawd) see the repository.",
+  "version": "1.0.0",
+  "publisher": "lionyu0717",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "claude",
+    "warm",
+    "t3",
+    "paper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lionyu0717/t3-claude-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "T3–Claude",
+        "uiTheme": "vs",
+        "path": "./themes/t3-claude-color-theme.json"
+      }
+    ]
+  }
+}
