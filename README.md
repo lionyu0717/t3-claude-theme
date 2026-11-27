@@ -8,9 +8,15 @@ Claude 改版之后，很多人怀念原来那种暖色调、纸一样质感的�
 
 ## 安装（完整版）
 
+主题是两个文件：`t3-claude.json`（配色、字体、动画）和 `t3-claude.png`（小 Clawd 像素帧）。**只装 json 也能用，但不会有小 Clawd。**
+
 1. 从 [Releases](../../releases) 下载 `t3-claude.json`
 2. 打开 T3 Code → **Settings → Appearance → Import theme file**，选择下载的文件
-3. 在主题列表里选择 **T3–Claude**
+3. 再下载 `t3-claude.png`，放进 T3 的主题目录，和 `t3-claude.json` 放在一起：
+   - macOS：`~/.t3/userdata/themes/`
+   - Windows：`%USERPROFILE%\\.t3\\userdata\\themes`
+   - Linux：`~/.t3/userdata/themes/`
+4. 在主题列表里选择 **T3–Claude**（看不到小 Clawd 就切换一下主题或重启 T3）
 
 ## 包含什么
 
@@ -43,9 +49,14 @@ After Claude's redesign, many people missed the warm, paper-like experience of t
 
 ## Install (full version)
 
+The theme is two files: `t3-claude.json` (colors, fonts, animation) and `t3-claude.png` (the Clawd sprite sheet). **The JSON alone works, but there will be no Clawd.**
+
 1. Download `t3-claude.json` from [Releases](../../releases)
 2. In T3 Code, open **Settings → Appearance → Import theme file** and pick the file
-3. Select **T3–Claude** in the theme list
+3. Also download `t3-claude.png` and place it in T3's themes directory, next to `t3-claude.json`:
+   - macOS / Linux: `~/.t3/userdata/themes/`
+   - Windows: `%USERPROFILE%\\.t3\\userdata\\themes`
+4. Select **T3–Claude** in the theme list (if the Clawd doesn't show, switch themes or restart T3)
 
 ## What's inside
 
