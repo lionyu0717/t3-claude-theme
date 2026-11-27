@@ -21,7 +21,7 @@ Release 同时附带 `t3-claude.png`，仅供旧版 T3 或需要外部背景图�
 - 老 Claude 桌面版的暖纸色板（浅色 / 深色两套）
 - 对话与输入框使用 Anthropic Serif（字体已内嵌，无需安装），界面使用 Georgia
 - 复刻老版的输入框与发送按钮：打字时变成回车符号 ↵，悬停浮现陶土色
-- 输入框上方的像素小 Clawd：空闲时安静待机；Agent 开始工作时触发一次响应式多路点巡逻，之后回到右侧，悬停原地招手，按下活动区撒花，按下发送时兴奋，中途还会思考和跳舞（脚步与位移同步，纯 CSS 实现）
+- 输入框上方的像素小 Clawd：空闲时安静待机；Agent 开始工作时触发一次响应式多路点巡逻，结束后回到右侧，约 180 秒内不重复；悬停原地招手，按下活动区撒花，按下发送时兴奋，中途还会思考和跳舞（脚步与位移同步，纯 CSS 实现）
 - 发送 / steering / 排队 / 停止按钮统一为 Clawd 陶土色 `#d97757`
 
 ## 关于 Open VSX 精简版
@@ -61,7 +61,7 @@ The release also includes `t3-claude.png` for older T3 builds or users who prefe
 - The old Claude desktop warm palette (light & dark)
 - Anthropic Serif for conversation and composer (embedded, no install needed), Georgia for the interface
 - The old-style composer and send button: a return symbol ↵ while typing, clay on hover
-- A pixel Clawd above the composer: quiet while idle, one responsive multi-stop patrol when the agent starts working, then back to its home corner; hover to wave, press to celebrate or react to send, with thinking and dancing stops (synchronized frames and position, pure CSS)
+- A pixel Clawd above the composer: quiet while idle, one responsive multi-stop patrol when the agent starts working, then back to its home corner with roughly a 180-second cooldown; hover to wave, press to celebrate or react to send, with thinking and dancing stops (synchronized frames and position, pure CSS)
 - Send / steer / queue / stop buttons unified in Clawd clay `#d97757`
 
 ## Open VSX lite version
