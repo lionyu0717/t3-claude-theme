@@ -2,7 +2,7 @@
 
 The warm, paper-like palette of the old Claude Code desktop app, for T3 Code's community theme gallery.
 
-This is the **colors-only** build: the full theme — embedded Anthropic Serif, the old-style composer with the ↵ send button, and the pixel Clawd living above the input box — is distributed as a T3 theme file:
+This is the **colors-only** build: the full theme — embedded Anthropic Serif, the old-style composer with the ↵ send button, and the interactive pixel Clawd living above the input box — is distributed as a single T3 theme file:
 
 **https://github.com/lionyu0717/t3-claude-theme**
 
